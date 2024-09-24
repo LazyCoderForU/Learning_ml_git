@@ -4,7 +4,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
-# Title of the app
+# this is devops
+
 st.title('My First Streamlit App')
 
 # Header
